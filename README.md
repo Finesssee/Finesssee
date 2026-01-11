@@ -42,9 +42,17 @@ Building CLI tools, Discord bots, and infrastructure automation. Currently deep 
 
 ## 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Finesssee&show_icons=true&theme=dark&hide_border=true&count_private=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Finesssee&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Finesssee&show_icons=true&theme=default&hide_border=true&include_all_commits=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Finesssee&show_icons=true&theme=dark&hide_border=true" />
+</picture>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Finesssee&layout=compact&theme=dark&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Finesssee&layout=compact&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Finesssee&layout=compact&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Finesssee&layout=compact&theme=dark&hide_border=true" />
+</picture>
 
 ---
 

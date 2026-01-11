@@ -6,7 +6,10 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
 ![Tailscale](https://img.shields.io/badge/-Tailscale-242424?style=flat&logo=tailscale)
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000?style=flat&logo=anthropic)
 
 Building CLI tools, Discord bots, and infrastructure automation. Currently deep in the AI-assisted coding rabbit hole.
 
@@ -14,29 +17,19 @@ Building CLI tools, Discord bots, and infrastructure automation. Currently deep 
 
 ## 🚀 Current Projects
 
-| Project | Description |
-|---------|-------------|
-| 🔌 **[ProxyPilot](https://github.com/Finesssee/ProxyPilot)** | Windows-native proxy for AI coding tools - no API key needed |
-| 📋 **[linear-cli](https://github.com/Finesssee/linear-cli)** | Powerful CLI for Linear.app project management |
-| 🚦 **[tdops](https://github.com/Finesssee/tdops)** | Tailscale + DigitalOcean droplet ops CLI |
-| 🔥 **[Hublicate](https://github.com/Finesssee/Hublicate)** | Clone and recreate any website as a modern React app |
-| 🎵 **[osu-sync](https://github.com/Finesssee/osu-sync)** | Rust TUI for syncing beatmaps between osu! versions |
-| 🎮 **[Terra](https://github.com/Finesssee/Terra)** | Cursor for Terraria |
-| 📊 **[Win-CodexBar](https://github.com/Finesssee/Win-CodexBar)** | OpenAI/Claude usage stats for Windows |
+🔌 **[ProxyPilot](https://github.com/Finesssee/ProxyPilot)** - Windows-native proxy for AI coding tools - no API key needed
 
----
+📋 **[linear-cli](https://github.com/Finesssee/linear-cli)** - Powerful CLI for Linear.app project management
 
-## 🛠️ Tech Stack
+🚦 **[tdops](https://github.com/Finesssee/tdops)** - Tailscale + DigitalOcean droplet ops CLI
 
-**Languages:** Rust, TypeScript, Go, C#, Python
+🔥 **[Hublicate](https://github.com/Finesssee/Hublicate)** - Clone and recreate any website as a modern React app
 
-**Frontend:** React, Next.js, Tailwind
+🎵 **[osu-sync](https://github.com/Finesssee/osu-sync)** - Rust TUI for syncing beatmaps between osu! versions
 
-**Backend:** Node.js, Bun, Actix
+🎮 **[Terra](https://github.com/Finesssee/Terra)** - Cursor for Terraria
 
-**Infra:** DigitalOcean, Tailscale, Docker
-
-**Tools:** Claude Code, Cursor, Linear
+📊 **[Win-CodexBar](https://github.com/Finesssee/Win-CodexBar)** - OpenAI/Claude usage stats for Windows
 
 ---
 

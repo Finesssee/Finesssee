@@ -42,7 +42,9 @@ Building CLI tools, Discord bots, and infrastructure automation. Currently deep 
 
 ## 🎯 Philosophy
 
-> Ship fast, iterate faster. AI is the multiplier.
+> Wer nicht wagt, der nicht gewinnt
+>
+> *"Who doesn't dare, doesn't win"*
 
 Building tools that solve my own problems, then sharing them with the world.
 

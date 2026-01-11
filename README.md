@@ -40,22 +40,6 @@ Building CLI tools, Discord bots, and infrastructure automation. Currently deep 
 
 ---
 
-## 📊 Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Finesssee&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Finesssee&show_icons=true&theme=default&hide_border=true&include_all_commits=true" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Finesssee&show_icons=true&theme=dark&hide_border=true" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Finesssee&layout=compact&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Finesssee&layout=compact&theme=default&hide_border=true" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Finesssee&layout=compact&theme=dark&hide_border=true" />
-</picture>
-
----
-
 ## 🎯 Philosophy
 
 > Ship fast, iterate faster. AI is the multiplier.

@@ -67,4 +67,5 @@ Building tools that solve my own problems, then sharing them with the world.
 
 [![X](https://img.shields.io/badge/-X-000?style=flat&logo=x)](https://x.com/Finesssee)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Finesssee)
+[![Discord](https://img.shields.io/badge/-nesszerra-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/nesszerra)
 [![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/Finessse)

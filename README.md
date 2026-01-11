@@ -44,7 +44,7 @@ Building CLI tools, Discord bots, and infrastructure automation. Currently deep 
 
 > Wer nicht wagt, der nicht gewinnt
 >
-> *"Who doesn't dare, doesn't win"*
+> *"Who doesn't dare, doesn't win"* (I'm not German but I like the quote)
 
 Building tools that solve my own problems, then sharing them with the world.
 

@@ -1,0 +1,61 @@
+# Hey, I'm Finesssee 👋
+
+🤖 Vibe coder | 🛠️ Building tools at AI speed | 🎮 Gaming meets code
+
+![Rust](https://img.shields.io/badge/-Rust-000?style=flat&logo=rust)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailscale](https://img.shields.io/badge/-Tailscale-242424?style=flat&logo=tailscale)
+
+Building CLI tools, Discord bots, and infrastructure automation. Currently deep in the AI-assisted coding rabbit hole.
+
+---
+
+## 🚀 Current Projects
+
+| Project | Description |
+|---------|-------------|
+| 🚦 **[tdops](https://github.com/Finesssee/tdops)** | Tailscale + DigitalOcean droplet ops CLI |
+| 🔌 **[ProxyPilot](https://github.com/Finesssee/ProxyPilot)** | Windows-native proxy for AI coding tools - no API key needed |
+| 📋 **[linear-cli](https://github.com/Finesssee/linear-cli)** | Powerful CLI for Linear.app project management |
+| 🎵 **[osu-sync](https://github.com/Finesssee/osu-sync)** | Rust TUI for syncing beatmaps between osu! versions |
+| 🎮 **[Terra](https://github.com/Finesssee/Terra)** | Cursor for Terraria |
+| 🤖 **[Steve-Fabric](https://github.com/Finesssee/Steve-Fabric)** | AI agents for Minecraft |
+| 🖥️ **[MC-SVR](https://github.com/Finesssee/MC-SVR)** | Discord bot for Minecraft server management |
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Rust, TypeScript, Go, C#, Python
+
+**Frontend:** React, Next.js, Tailwind
+
+**Backend:** Node.js, Bun, Actix
+
+**Infra:** DigitalOcean, Tailscale, Docker
+
+**Tools:** Claude Code, Cursor, Linear
+
+---
+
+## 📊 Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Finesssee&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Finesssee&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 🎯 Philosophy
+
+> Ship fast, iterate faster. AI is the multiplier.
+
+Building tools that solve my own problems, then sharing them with the world.
+
+---
+
+## 📫 Connect
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Finesssee)

@@ -15,7 +15,6 @@
 ![Tailscale](https://img.shields.io/badge/-Tailscale-242424?style=flat&logo=tailscale)
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000?style=flat&logo=anthropic)
-![Codex CLI](https://img.shields.io/badge/-Codex_CLI-412991?style=flat&logo=openai&logoColor=white)
 ![Cursor](https://img.shields.io/badge/-Cursor-000?style=flat&logo=cursor)
 
 Building CLI tools, Discord bots, and infrastructure automation. Currently deep in the AI-assisted coding rabbit hole.

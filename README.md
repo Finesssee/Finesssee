@@ -23,19 +23,27 @@ Automating the boring stuff so I can focus on the fun stuff.
 
 ## 🚀 Current Projects
 
-🔌 **[ProxyPilot](https://github.com/Finesssee/ProxyPilot)** - Windows-native proxy for AI coding tools - no API key needed
-
 📋 **[linear-cli](https://github.com/Finesssee/linear-cli)** - Powerful CLI for Linear.app project management
 
 🚦 **[tdops](https://github.com/Finesssee/tdops)** - Tailscale + DigitalOcean droplet ops CLI
 
-🔥 **[Hublicate](https://github.com/Finesssee/Hublicate)** - Clone and recreate any website as a modern React app
-
 🎵 **[osu-sync](https://github.com/Finesssee/osu-sync)** - Rust TUI for syncing beatmaps between osu! versions
 
-🎮 **[Terra](https://github.com/Finesssee/Terra)** - Cursor for Terraria
+---
 
-📊 **[Win-CodexBar](https://github.com/Finesssee/Win-CodexBar)** - OpenAI/Claude usage stats for Windows
+## 🍴 Forks
+
+🔌 **[ProxyPilot](https://github.com/Finesssee/ProxyPilot)** - Windows-native proxy for AI coding tools (fork)
+
+📊 **[Win-CodexBar](https://github.com/Finesssee/Win-CodexBar)** - OpenAI/Claude usage stats for Windows (fork)
+
+🎮 **[Terra](https://github.com/Finesssee/Terra)** - Cursor for Terraria (fork, different architecture)
+
+---
+
+## 📦 Archive
+
+🔥 **[Hublicate](https://github.com/Finesssee/Hublicate)** - Clone and recreate any website as a modern React app
 
 ---
 

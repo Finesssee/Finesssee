@@ -11,9 +11,11 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/-Discord.js-5865F2?style=flat&logo=discord&logoColor=white)
 ![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=flat&logo=tauri&logoColor=black)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/-Tailscale-242424?style=flat&logo=tailscale)
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000?style=flat&logo=anthropic)
+![Codex](https://img.shields.io/badge/-Codex-412991?style=flat&logo=openai&logoColor=white)
 ![Cursor](https://img.shields.io/badge/-Cursor-000?style=flat&logo=cursor)
 
 Building CLI tools, Discord bots, and infrastructure automation. Currently deep in the AI-assisted coding rabbit hole.

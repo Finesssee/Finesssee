@@ -1,4 +1,4 @@
-# Hey, I'm Finesssee 👋
+# Hey, I'm Finesssee (RCD or Ness) 👋
 
 🤖 Vibe coder | 🛠️ Building tools at AI speed | 🎮 Gaming meets code
 

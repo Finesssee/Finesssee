@@ -33,11 +33,11 @@ Automating the boring stuff so I can focus on the fun stuff.
 
 ## 🍴 Forks
 
-🔌 **[ProxyPilot](https://github.com/Finesssee/ProxyPilot)** - Windows-native proxy for AI coding tools (fork)
+🔌 **[ProxyPilot](https://github.com/Finesssee/ProxyPilot)** - Windows-native proxy for AI coding tools *(forked from [CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI))*
 
-📊 **[Win-CodexBar](https://github.com/Finesssee/Win-CodexBar)** - OpenAI/Claude usage stats for Windows (fork)
+📊 **[Win-CodexBar](https://github.com/Finesssee/Win-CodexBar)** - OpenAI/Claude usage stats for Windows *(forked from [CodexBar](https://github.com/steipete/CodexBar))*
 
-🎮 **[Terra](https://github.com/Finesssee/Terra)** - Cursor for Terraria (fork, different architecture)
+🎮 **[Terra](https://github.com/Finesssee/Terra)** - Cursor for Terraria *(forked from [Steve](https://github.com/YuvDwi/Steve), adapted for Terraria)*
 
 ---
 

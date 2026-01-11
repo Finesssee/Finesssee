@@ -17,7 +17,7 @@
 ![Claude](https://img.shields.io/badge/-Claude-000?style=flat&logo=anthropic)
 ![Cursor](https://img.shields.io/badge/-Cursor-000?style=flat&logo=cursor)
 
-Making tools I wish existed.
+Automating the boring stuff so I can focus on the fun stuff.
 
 ---
 

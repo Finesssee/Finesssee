@@ -17,7 +17,7 @@
 ![Claude](https://img.shields.io/badge/-Claude-000?style=flat&logo=anthropic)
 ![Cursor](https://img.shields.io/badge/-Cursor-000?style=flat&logo=cursor)
 
-Building CLI tools, Discord bots, and infrastructure automation. Currently deep in the AI-assisted coding rabbit hole.
+Making tools I wish existed.
 
 ---
 

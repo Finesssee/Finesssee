@@ -49,14 +49,14 @@ Building tools that solve my own problems, then sharing them with the world.
 
 ---
 
+## 📈 Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Finesssee&theme=github-dark&hide_border=true)
+
+---
+
 ## 📫 Connect
 
 [![X](https://img.shields.io/badge/-X-000?style=flat&logo=x)](https://x.com/Finesssee)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Finesssee)
 [![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/Finessse)
-
----
-
-## 📈 Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Finesssee&theme=github-dark&hide_border=true)

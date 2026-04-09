@@ -2,13 +2,13 @@
 
 Agentic Engineer
 
-![Rust](https://img.shields.io/badge/-Rust-1a1a1a?style=flat&logo=rust&logoColor=f74c00)
-![TypeScript](https://img.shields.io/badge/-TypeScript-1a1a1a?style=flat&logo=typescript&logoColor=3178C6)
-![Go](https://img.shields.io/badge/-Go-1a1a1a?style=flat&logo=go&logoColor=00ADD8)
-![Codex](https://img.shields.io/badge/-Codex-1a1a1a?style=flat&logo=openai&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-1a1a1a?style=flat&logo=windows11&logoColor=0078D6)
-![macOS](https://img.shields.io/badge/-macOS-1a1a1a?style=flat&logo=macos&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-1a1a1a?style=flat&logo=linux&logoColor=FCC624)
+![Rust](https://img.shields.io/badge/-Rust-DEA584?style=flat-square&logo=rust&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 Automating the boring stuff so I can focus on the fun stuff.
 

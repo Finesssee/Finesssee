@@ -1,6 +1,6 @@
 # Hey, I'm Ness 👋
 
-🤖 Vibe coder | 🛠️ Building tools at AI speed | 🎮 Gaming meets code
+Agentic Engineer
 
 ![Rust](https://img.shields.io/badge/-Rust-1a1a1a?style=flat&logo=rust&logoColor=f74c00)
 ![Go](https://img.shields.io/badge/-Go-1a1a1a?style=flat&logo=go&logoColor=00ADD8)

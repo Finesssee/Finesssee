@@ -20,6 +20,10 @@ Agentic Engineer
 
 📊 **[Win-CodexBar](https://github.com/Finesssee/Win-CodexBar)** - OpenAI/Claude usage stats for Windows *(forked from [CodexBar](https://github.com/steipete/CodexBar))*
 
+---
+
+## 📦 Archive (still maintaining but less active)
+
 🧠 **[pi-extension-morph-compaction](https://github.com/Finesssee/pi-extension-morph-compaction)** - Morph-first session compaction extension for Pi
 
 🔑 **[pi-cursor-auth](https://github.com/Finesssee/pi-cursor-auth)** - Cursor API integration — OAuth auth, model discovery, and OpenAI-compatible proxy
@@ -27,10 +31,6 @@ Agentic Engineer
 🔍 **[exa-cli](https://github.com/Finesssee/exa-cli)** - AI-powered web search and content extraction from the command line via Exa API
 
 🧲 **[memory-search](https://github.com/Finesssee/memory-search)** - Hybrid BM25 + vector search CLI for personal knowledge bases
-
----
-
-## 📦 Archive
 
 🚦 **[tdops](https://github.com/Finesssee/tdops)** - Tailscale + DigitalOcean droplet ops CLI
 

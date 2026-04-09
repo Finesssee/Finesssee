@@ -12,13 +12,21 @@ Agentic Engineer
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Active Projects
 
 📋 **[linear-cli](https://github.com/Finesssee/linear-cli)** - Powerful CLI for Linear.app project management
 
 🔌 **[ProxyPilot](https://github.com/Finesssee/ProxyPilot)** - Windows-native proxy for AI coding tools *(forked from [CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI))*
 
 📊 **[Win-CodexBar](https://github.com/Finesssee/Win-CodexBar)** - OpenAI/Claude usage stats for Windows *(forked from [CodexBar](https://github.com/steipete/CodexBar))*
+
+🧠 **[pi-extension-morph-compaction](https://github.com/Finesssee/pi-extension-morph-compaction)** - Morph-first session compaction extension for Pi
+
+🔑 **[pi-cursor-auth](https://github.com/Finesssee/pi-cursor-auth)** - Cursor API integration — OAuth auth, model discovery, and OpenAI-compatible proxy
+
+🔍 **[exa-cli](https://github.com/Finesssee/exa-cli)** - AI-powered web search and content extraction from the command line via Exa API
+
+🧲 **[memory-search](https://github.com/Finesssee/memory-search)** - Hybrid BM25 + vector search CLI for personal knowledge bases
 
 ---
 

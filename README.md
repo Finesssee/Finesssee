@@ -1,6 +1,6 @@
 # Hey, I'm Finesssee (RCD or Ness) 👋
 
-🤖 Agentic Engineer | 🛠️ Building tools at AI speed | 🎮 Gaming meets code
+🤖 Vibe coder | 🛠️ Building tools at AI speed | 🎮 Gaming meets code
 
 ![Rust](https://img.shields.io/badge/-Rust-1a1a1a?style=flat&logo=rust&logoColor=f74c00)
 ![Go](https://img.shields.io/badge/-Go-1a1a1a?style=flat&logo=go&logoColor=00ADD8)
@@ -54,6 +54,12 @@ Automating the boring stuff so I can focus on the fun stuff.
 > *"Who doesn't dare, doesn't win"* (I'm not German but I like the quote)
 
 Building tools that solve my own problems, then sharing them with the world.
+
+---
+
+## 💬 Kind Words
+
+<img src="compliment.png" alt="Peter Steinberger kudos" width="600" />
 
 ---
 

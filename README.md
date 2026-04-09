@@ -10,8 +10,6 @@ Agentic Engineer
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-Automating the boring stuff so I can focus on the fun stuff.
-
 ---
 
 ## 🚀 Current Projects

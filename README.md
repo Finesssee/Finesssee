@@ -58,12 +58,6 @@ Building tools that solve my own problems, then sharing them with the world.
 
 ---
 
-## 📈 Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Finesssee&theme=github-dark&hide_border=true)
-
----
-
 ## 📫 Connect
 
 [![X](https://img.shields.io/badge/-X-000?style=flat&logo=x)](https://x.com/Finesssee)

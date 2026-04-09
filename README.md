@@ -1,6 +1,6 @@
 # Hey, I'm Ness 👋
 
-Agentic Engineer
+Agentic Engineer — building tools that solve my own problems, then sharing them with the world.
 
 ![Rust](https://img.shields.io/badge/-Rust-DEA584?style=flat-square&logo=rust&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -44,11 +44,9 @@ Agentic Engineer
 
 ## 🎯 Philosophy
 
-> Wer nicht wagt, der nicht gewinnt
+> "Saying and doing are two different things." — @steipete
 >
-> *"Who doesn't dare, doesn't win"* (I'm not German but I like the quote)
-
-Building tools that solve my own problems, then sharing them with the world.
+> "Wer nicht wagt, der nicht gewinnt." — *Who doesn't dare, doesn't win.*
 
 ---
 

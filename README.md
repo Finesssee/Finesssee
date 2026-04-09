@@ -3,12 +3,12 @@
 Agentic Engineer
 
 ![Rust](https://img.shields.io/badge/-Rust-1a1a1a?style=flat&logo=rust&logoColor=f74c00)
-![Codex](https://img.shields.io/badge/-Codex-1a1a1a?style=flat&logo=openai&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-1a1a1a?style=flat&logo=windows&logoColor=0078D6)
-![macOS](https://img.shields.io/badge/-macOS-1a1a1a?style=flat&logo=apple&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-1a1a1a?style=flat&logo=linux&logoColor=FCC624)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-1a1a1a?style=flat&logo=typescript&logoColor=3178C6)
 ![Go](https://img.shields.io/badge/-Go-1a1a1a?style=flat&logo=go&logoColor=00ADD8)
+![Codex](https://img.shields.io/badge/-Codex-1a1a1a?style=flat&logo=openai&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-1a1a1a?style=flat&logo=windows11&logoColor=0078D6)
+![macOS](https://img.shields.io/badge/-macOS-1a1a1a?style=flat&logo=macos&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-1a1a1a?style=flat&logo=linux&logoColor=FCC624)
 
 Automating the boring stuff so I can focus on the fun stuff.
 

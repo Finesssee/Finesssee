@@ -3,19 +3,12 @@
 Agentic Engineer
 
 ![Rust](https://img.shields.io/badge/-Rust-1a1a1a?style=flat&logo=rust&logoColor=f74c00)
-![Go](https://img.shields.io/badge/-Go-1a1a1a?style=flat&logo=go&logoColor=00ADD8)
-![TypeScript](https://img.shields.io/badge/-TypeScript-1a1a1a?style=flat&logo=typescript&logoColor=3178C6)
-![C%23](https://img.shields.io/badge/-C%23-1a1a1a?style=flat&logo=csharp&logoColor=239120)
-![React](https://img.shields.io/badge/-React-1a1a1a?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-1a1a1a?style=flat&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-1a1a1a?style=flat&logo=node.js&logoColor=339933)
-![Discord.js](https://img.shields.io/badge/-Discord.js-1a1a1a?style=flat&logo=discord&logoColor=5865F2)
-![Tauri](https://img.shields.io/badge/-Tauri-1a1a1a?style=flat&logo=tauri&logoColor=FFC131)
+![Codex](https://img.shields.io/badge/-Codex-1a1a1a?style=flat&logo=openai&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-1a1a1a?style=flat&logo=windows&logoColor=0078D6)
-![Tailscale](https://img.shields.io/badge/-Tailscale-1a1a1a?style=flat&logo=tailscale&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-1a1a1a?style=flat&logo=digitalocean&logoColor=0080FF)
-![Claude](https://img.shields.io/badge/-Claude-1a1a1a?style=flat&logo=anthropic&logoColor=cc785c)
-![Cursor](https://img.shields.io/badge/-Cursor-1a1a1a?style=flat&logo=cursor&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-1a1a1a?style=flat&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-1a1a1a?style=flat&logo=linux&logoColor=FCC624)
+![TypeScript](https://img.shields.io/badge/-TypeScript-1a1a1a?style=flat&logo=typescript&logoColor=3178C6)
+![Go](https://img.shields.io/badge/-Go-1a1a1a?style=flat&logo=go&logoColor=00ADD8)
 
 Automating the boring stuff so I can focus on the fun stuff.
 
